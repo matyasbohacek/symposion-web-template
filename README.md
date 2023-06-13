@@ -20,21 +20,20 @@ Nejprve je potřeba vytvořit Google Tabulku s harmonogramem. Tu je následně m
 
 3. Přizvěte konkrétní organizátory pomocí standardního Google rozhraní _Sdílet_. Pozor, za žádných okolností nesdílejte tabulku prostřednictvím odkazu. Tímto způsobem by mohl tabulku upravovat kdokoliv na škole.
 
+((TBD)) EXAMPLES
+
 ## 2. Tvorba webu
 
-TBD
+Po přípravě a sdílení tabulky můžete pokračovat k tvorbě samotné webové stránky.
 
-Grafická úprava první
-Napojení linku
+1. Začněte tím, že vytvoříte klon tohoto repozitáře. Tím se Vám vytvoří Váš vlastní GitHub projekt, v němž budete moci základní šablonu adaptovat na aktuální ročník.
+2. **Informace a motiv** – ((TBD))
+3. **Propojení tabulky** – ((TBD))
 
 ## 3. Zveřejnění
 
-TBD
+Jakmile web řádně otestujete na svém vlastním zařízení, nebude již nic bránit jeho zveřejnění světu. Existují dvě hlavní možnosti, jak web publikovat – na doméně školy či na vlastní doméně.
 
-GitHub IO
+Pokud volíte variantu školní domény, kontaktujte osobu pověřenou správou webu a s ní domluvte další kroky. Pokud však volíte publikaci na vlastní doméně, můžete využít následující kroky:
 
-## Kontakt
-
-TBD
-
-
+((TBD)) GitHub IO
